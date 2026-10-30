@@ -81,5 +81,3 @@ Design an LED Chaser circuit (555 Timer + 4017 Decade Counter) and document the 
 - [Example LED Chaser Circuits](https://www.electronics-tutorials.ws/sequential/seq_2.html)
 
 ---
-
-**Maintainer:** jenna2004jna
